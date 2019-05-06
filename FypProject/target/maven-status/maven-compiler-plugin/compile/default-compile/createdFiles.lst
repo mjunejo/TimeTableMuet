@@ -1,0 +1,6 @@
+com\muet\timetable\DAO\FacultyDAO.class
+com\muet\timetable\Models\Faculty.class
+com\muet\timetable\Controllers\FacultyController.class
+com\muet\timetable\DAOImpl\FacultyDAOImpl.class
+com\muet\timetable\FacultyApplication.class
+com\muet\timetable\Repository\FacultyRepository.class
